@@ -115,5 +115,9 @@ body
 {
     background-color: #e21212;
 }
+.card:hover
+{
+    right: 0;
+}
 
 
